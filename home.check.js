@@ -10,7 +10,7 @@ async function run() {
   console.log(`DEPLOYMENT_ID ${process.env.DEPLOYMENT_ID}`)
   await page.screenshot({ path: 'home.jpg' })
 
-  // trigger prod deployment - 4rd time - `production`
+  // trigger prod deployment - 5rd time - `Production`
 
   await cleanUp(page, browser)
 }
