@@ -1,0 +1,24 @@
+{
+  "name": "sync-tryout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkly.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanjudis/sync-tryout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanjudis/sync-tryout/issues"
+  },
+  "homepage": "https://github.com/stefanjudis/sync-tryout#readme",
+  "dependencies": {
+    "expect": "^27.1.3",
+    "playwright": "^1.24.2"
+  }
+}
